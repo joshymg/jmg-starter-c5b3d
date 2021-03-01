@@ -29,7 +29,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/logo.png"
+        "logo": "images/logo.png",
+        "logo_alt": "Value"
     },
     "footer": {
         "has_nav": true,
