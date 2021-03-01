@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Hero Headline
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: What can you do with this charger?
     actions:
       - label: Learn More
         url: /features
